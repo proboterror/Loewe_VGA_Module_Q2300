@@ -15,6 +15,7 @@ Recreated schematic and PCB:
 ![pcb_bottom](images/pcb_bottom.png)
 ![pcb_dimensions](images/pcb_dimensions.png)
 
+VGA connector breakout board:
 ![pcb_breakout_3D](images/pcb_breakout_3D.png)
 ![pcb_breakout_dimensions](images/pcb_breakout_dimensions.png)
 

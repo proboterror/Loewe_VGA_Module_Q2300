@@ -29,7 +29,7 @@ Recreated schematic and PCB:
 |C15,C18,C19,C20,C21,C22,C24|10p|0805|7|
 |C25,C28,C29|100p|0805|3|
 |J1|VGA DSUB-15|DSUB-15-HD_Male_Horizontal_P2.29x1.98mm<br>EdgePinOffset3.03mm_MountingHolesOffset4.94mm|1|
-|J2|JST_XH_1x10_P2.50mm_Horizontal|JST_XH_S10B-XH-A_1x10_P2.50mm_Horizontal|1|
+|J2|JST XH 10 pin Horizontal|JST_XH_S10B-XH-A_1x10_P2.50mm_Horizontal|1|
 |L1|4u7|Inductor_SMD:1206|1|
 |Q1,Q2,Q3,Q4,Q5,Q6,Q10,Q14|BC847B|SOT-23|8|
 |R1,R6,R13|75R|0805|3|
@@ -39,8 +39,8 @@ Recreated schematic and PCB:
 |R22|10K|0805|1|
 |R25,R31,R35,R40,R43|1K|0805|5|
 |U1|74HCT86|SO-14_3.9x8.65mm_P1.27mm|1|
-|W2|rt|JST_XH_B10B-XH-A_1x10_P2.50mm_Vertical|1|
-|W3|sw|JST_XH_B10B-XH-A_1x10_P2.50mm_Vertical|1|
+|W2|JST XH 10 pin Vertical|JST_XH_B10B-XH-A_1x10_P2.50mm_Vertical|1|
+|W3|JST XH 10 pin Vertical|JST_XH_B10B-XH-A_1x10_P2.50mm_Vertical|1|
 
 +Cables XH 10 pin 20 + 30~50 cm, connectors: same side
 

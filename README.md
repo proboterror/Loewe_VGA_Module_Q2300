@@ -1,12 +1,12 @@
 # Loewe TVs Q2300 VGA Module
 Recreation of VGA module PCB for Loewe TVs with Q2300 chassis.<br>
-(Loewe Q2400/Q2500 Chassis VGA Module)[https://github.com/proboterror/Loewe_VGA_Module_Q2500)
+[Loewe Q2400/Q2500 Chassis VGA Module](https://github.com/proboterror/Loewe_VGA_Module_Q2500)
 
 Project based on schematic from [Loewe Q2300 Chassis Service Manual](doc/loewe_chassis_q2300.pdf)
 
 Schematic and PCB recreated from the scratch in KiCad and verified with Desing/Electrical Rules Checker tools.<br>
 
-Original schematic from [Loewe Q2300 Chassis Service Manual](doc/loewe_chassis_q2300.pdf)
+Original schematic from [Loewe Q2300 Chassis Service Manual](doc/loewe_chassis_q2300.pdf):
 ![pcb_top](images/scheme-original.png)
 
 Recreated schematic and PCB:
@@ -54,4 +54,4 @@ L1 inductor can be replaced with 0R resistor or solder bridge.
 Pay attention on cables connectors type: same direction or reverse direction.
 
 ## Install
-[Module connection diagram](images/connect.png)
+![Module connection diagram](images/connect.png)

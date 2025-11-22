@@ -1623,7 +1623,7 @@
 		(layer "Edge.Cuts")
 		(uuid "bafce701-c2a7-454f-addf-80fac375a222")
 	)
-	(gr_text "Loewe Q2300\nBreakout Board"
+	(gr_text "Loewe Q2300\nBreakout Board V.1.0"
 		(at 160.35 95.95 0)
 		(layer "B.SilkS")
 		(uuid "645cf82b-afd7-40e1-af22-2bc07dae32f1")

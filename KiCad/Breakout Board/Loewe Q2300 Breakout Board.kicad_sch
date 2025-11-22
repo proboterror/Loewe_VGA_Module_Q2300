@@ -1308,7 +1308,7 @@
 				)
 			)
 		)
-		(property "Value" "JST_XH_1x10_P2.50mm_Horizontal"
+		(property "Value" "JST_XH_1x10_P2.54mm_Horizontal"
 			(at 68.58 26.67 0)
 			(effects
 				(font
@@ -1316,7 +1316,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Connector_JST:JST_XH_S10B-XH-A_1x10_P2.50mm_Horizontal"
+		(property "Footprint" "JST_XH_S10B_2.54mm:JST_XH_S10B-XH-A_1x10_P2.54mm_Horizontal"
 			(at 68.58 43.18 0)
 			(effects
 				(font
@@ -1374,7 +1374,7 @@
 			(uuid "d5c45da2-a1d3-4474-ad3b-b84273ff2037")
 		)
 		(instances
-			(project "Loewe Q2300 Breakout"
+			(project "Loewe Q2300 Breakout Board"
 				(path "/027c2a37-84fa-4fcd-bb4d-5ec742c0cf3f"
 					(reference "J2")
 					(unit 1)
@@ -1484,7 +1484,7 @@
 			(uuid "87c70a06-fc75-4a3f-80d2-73e3150fa997")
 		)
 		(instances
-			(project "Loewe Q2300 Breakout"
+			(project "Loewe Q2300 Breakout Board"
 				(path "/027c2a37-84fa-4fcd-bb4d-5ec742c0cf3f"
 					(reference "J1")
 					(unit 1)

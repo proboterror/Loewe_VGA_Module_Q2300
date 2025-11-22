@@ -9225,7 +9225,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Connector_JST:JST_XH_B10B-XH-A_1x10_P2.50mm_Vertical"
+		(property "Footprint" "JST_XH_S10B_2.54mm:JST_XH_B10B-XH-A_1x10_P2.54mm_Vertical"
 			(at 222.25 91.44 0)
 			(effects
 				(font
@@ -10695,7 +10695,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Connector_JST:JST_XH_B10B-XH-A_1x10_P2.50mm_Vertical"
+		(property "Footprint" "JST_XH_S10B_2.54mm:JST_XH_B10B-XH-A_1x10_P2.54mm_Vertical"
 			(at 29.21 83.82 0)
 			(effects
 				(font

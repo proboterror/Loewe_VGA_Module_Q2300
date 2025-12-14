@@ -447,7 +447,7 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "Loewe Q2300 VGA.kicad_pro",
+    "filename": "Loewe Q2300 Breakout Board.kicad_pro",
     "version": 1
   },
   "net_settings": {
@@ -482,7 +482,7 @@
       "gencad": "",
       "idf": "",
       "netlist": "",
-      "plot": "../gerbers",
+      "plot": "../../gerbers/Breakout Board",
       "pos_files": "",
       "specctra_dsn": "",
       "step": "",

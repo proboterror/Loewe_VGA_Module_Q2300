@@ -62,6 +62,6 @@ Select VGA input:<br>
 @djcalle1975:
 > On the Q23 you have to navigate to channel 196 and if no input is detected within 10 seconds the TV will default back to the last used channel.
 
-VGA Geometry menu:
+VGA Geometry menu:<br>
 @peteagas:
 > If there is no VGA menu for you on a Q23 after installation and after enabling the option byte setting, press the "i" on the Loewe remote then go to select control level then simple control level set to "No". VGA geometry will now be available to use.
